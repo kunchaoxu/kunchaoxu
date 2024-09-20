@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kunchao
-- 👀 I’m interested in data analysis, hyperspectral image processing
+- 👀 I’m interested in data analysis, machine learning and hyperspectral image processing
 - 💞️ I’m looking to collaborate on research
 - 📫 How to reach me ? Just click my profile
 
